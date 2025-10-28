@@ -66,7 +66,7 @@ The dashboard was built using the following tools and technologies:
 
 ## 🖼️ 7. Dashboard Snapshot
 
-![Dashboard Snapshot](https://github.com/Abishek0024/Prime-Video-Dashboard/blob/main/Screenshot%202025-10-28%20171307.png)
+https://github.com/Abishek0024/Prime-video_analysis-_Dashboard/blob/main/Screenshot%202025-10-28%20171307.png
 
 ---
 
